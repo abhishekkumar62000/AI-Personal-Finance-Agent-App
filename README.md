@@ -18,7 +18,7 @@
   <img src="./AI.png" width="270px" />
   <br><strong>
 ✦💰 🧠AI Personal Finance Agent 🤖 - Your Smart Companion for Financial Freedom!🚨 ✦</strong><br><br>
-	<a https://ai-personal-finance-agent.streamlit.app/>🌍👨‍💻🚨 **Live Demo APP & Try It Yourself!**</a><strong><br><br>
+	<ahttps://ai-personal-finance-agent.streamlit.app/>🌍👨‍💻🚨 **Live Demo APP & Try It Yourself!**</a><strong><br><br>
 
   
   `## 🔥 **Project Overview**  
@@ -40,23 +40,23 @@
 ---
 
 ### 🎯 **Financial Management & Budgeting**  
-✅ **🏠 Dashboard Overview** – Your complete financial summary in one place  
-✅ **📊 Budget Planning** – Set, track, and optimize your monthly & yearly budgets  
-✅ **💸 Expense Tracking** – Categorize and monitor your spending habits  
+✅ **Dashboard Overview** – Your complete financial summary in one place  
+✅ **Budget Planning** – Set, track, and optimize your monthly & yearly budgets  
+✅ **Expense Tracking** – Categorize and monitor your spending habits  
 
 ### 💡 **AI-Powered Insights & Recommendations**  
-✅ **🤖 AI Smart Saving Tips** – Personalized saving strategies using AI  
-✅ **📈 Investment Insights** – AI-powered stock & crypto recommendations  
-✅ **🔍 Credit Score Analysis** – Get valuable insights into your credit health  
+✅ **AI Smart Saving Tips** – Personalized saving strategies using AI  
+✅ **Investment Insights** – AI-powered stock & crypto recommendations  
+✅ **Credit Score Analysis** – Get valuable insights into your credit health  
 
 ### 🛠 **Advanced Financial Growth & AI Tools**  
-✅ **🎯 Financial Goal Setting** – Set goals for savings, investments, and financial milestones  
-✅ **⏰ Bill Payment Reminders** – Never miss a payment again!  
-✅ **📑 Income & Expense Reports** – Auto-generated financial summaries & analysis  
-✅ **📜 AI-Generated Monthly & Yearly Financial Reports** – AI-driven insights into spending patterns  
-✅ **💹 Crypto & Stock Market Portfolio Tracker** – Manage & analyze your stock/crypto holdings  
-✅ **📊 AI-Powered Tax Calculator** – Smart tax estimation & optimization  
-✅ **💰 Savings Optimizer** – AI suggestions for better financial planning  
+✅ **Financial Goal Setting** – Set goals for savings, investments, and financial milestones  
+✅ **Bill Payment Reminders** – Never miss a payment again!  
+✅ **Income & Expense Reports** – Auto-generated financial summaries & analysis  
+✅ **AI-Generated Monthly & Yearly Financial Reports** – AI-driven insights into spending patterns  
+✅ **Crypto & Stock Market Portfolio Tracker** – Manage & analyze your stock/crypto holdings  
+✅ **AI-Powered Tax Calculator** – Smart tax estimation & optimization  
+✅ **Savings Optimizer** – AI suggestions for better financial planning  
 
 💡 **Upcoming Features:**  
 🚀 **AI Chat Assistant for Financial Queries**  
