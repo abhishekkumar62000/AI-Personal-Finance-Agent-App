@@ -20,9 +20,11 @@
 ✦💰 🧠AI Personal Finance Agent 🤖 - Your Smart Companion for Financial Freedom!🚨 ✦</strong><br><br>
 	<a href=https://ai-personal-finance-agent.streamlit.app/>🌍👨‍💻🚨 **Live Demo APP & Try It Yourself!**</a><strong><br><br>
 
-🤖AI Powered Finance Multi Agents Agno App 🌍👨‍💻🚨 **Live Demo APP & Try It Yourself!**
-<a href=https://app.agno.com/playground/chat?endpoint=agno.demo-agents.com&agent=web-search-agent&session=d5880f4d-e98b-4272-a340-4fe08edfbb3b></a><strong><br><br>
+🤖 AI Powered Finance Multi Agents Agno App 🌍👨‍💻🚨  
 
+**Live Demo APP & Try It Yourself!**  
+
+[👉 Click Here to Try the App! 🚀](https://app.agno.com/playground/chat?endpoint=agno.demo-agents.com&agent=web-search-agent&session=d5880f4d-e98b-4272-a340-4fe08edfbb3b)
 
   
   `## 🔥 **Project Overview**  
