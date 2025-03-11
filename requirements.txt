@@ -13,3 +13,4 @@ matplotlib
 agno
 openai
 google-search-results
+streamlit-option-menu
