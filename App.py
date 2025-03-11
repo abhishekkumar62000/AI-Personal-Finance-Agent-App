@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit_option_menu import option_menu
 import google.generativeai as genai
 import os
 import speech_recognition as sr
@@ -19,6 +20,37 @@ model = genai.GenerativeModel("models/gemini-1.5-pro-latest")
 
 # ✅ Streamlit UI
 st.set_page_config(page_title="AI Personal Finance Planner", page_icon="💰", layout="wide")
+
+# Theme Mode Selection
+with st.sidebar:
+    theme_mode = option_menu("Theme Mode", ["System", "Light", "Dark"], icons=["laptop", "sun", "moon"], menu_icon="palette", default_index=0)
+
+if theme_mode == "Dark":
+    st.markdown(
+        """
+        <style>
+        body {
+            background-color: #0e1117;
+            color: #ffffff;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+elif theme_mode == "Light":
+    st.markdown(
+        """
+        <style>
+        body {
+            background-color: #ffffff;
+            color: #000000;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+
 st.title("💰AI Personal Finance Agent🤖")
 st.write("Manage your budget and get financial advice with AI.")
 
