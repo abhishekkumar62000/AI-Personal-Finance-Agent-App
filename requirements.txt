@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+speechrecognition
+pyttsx3
+gtts
+textblob
+spacy
+asyncio
+numpy
+pandas
+matplotlib
+agno
+openai
+google-search-results
