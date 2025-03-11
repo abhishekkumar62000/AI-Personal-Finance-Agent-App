@@ -25,6 +25,7 @@ st.set_page_config(page_title="AI Personal Finance Planner", page_icon="💰", l
 with st.sidebar:
     theme_mode = option_menu("Theme Mode", ["System", "Light", "Dark"], icons=["laptop", "sun", "moon"], menu_icon="palette", default_index=0)
 
+# Apply theme based on selection
 if theme_mode == "Dark":
     st.markdown(
         """
@@ -49,7 +50,19 @@ elif theme_mode == "Light":
         """,
         unsafe_allow_html=True
     )
-
+else:
+    # System mode (default)
+    st.markdown(
+        """
+        <style>
+        body {
+            background-color: #f0f2f6;
+            color: #000000;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 
 st.title("💰AI Personal Finance Agent🤖")
 st.write("Manage your budget and get financial advice with AI.")
