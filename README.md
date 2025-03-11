@@ -15,7 +15,7 @@
 <div align="center">
 <hr>
   <h1 align="center">✦ Introducing to 💰AI Personal Finance Agent🤖 App✦</h1>
-  <img src="./AI.png" width="100px" />
+  <img src="./AI.png" width="200px" />
   <br><strong>
 ✦💰 🧠AI Personal Finance Agent 🤖 - Your Smart Companion for Financial Freedom!🚨 ✦</strong><br><br>
 	<a https://ai-personal-finance-agent.streamlit.app/>🌍👨‍💻🚨 **Live Demo APP & Try It Yourself!**</a><strong><br><br>
